@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T09:58:35.838Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="dkP0F3XPkxQ-JKsCAENT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T10:04:06.559Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="PhkzktZvimF0pktaQCZF" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1453" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,31 +18,28 @@
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="m2iV8GpVmI2Ca6JwWwAd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Check fee master" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Check fee master is&lt;br&gt;available" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="150" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="m2iV8GpVmI2Ca6JwWwAd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.071;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="m2iV8GpVmI2Ca6JwWwAd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="check due amount &amp;gt; 0 ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-3" value="No need to Display message" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="180" width="150" height="60" as="geometry" />
+          <mxGeometry x="370" y="170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-5" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="180" width="30" height="20" as="geometry" />
+          <mxGeometry x="310" y="180" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m2iV8GpVmI2Ca6JwWwAd-6" target="m2iV8GpVmI2Ca6JwWwAd-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m2iV8GpVmI2Ca6JwWwAd-6" target="m2iV8GpVmI2Ca6JwWwAd-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-11" value="Yes&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m2iV8GpVmI2Ca6JwWwAd-10">
           <mxGeometry x="-0.1887" y="3" relative="1" as="geometry">
@@ -57,11 +54,23 @@
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-6" value="due_date &amp;gt; today&#39;s date&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="271.25" width="170" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-9" value="Display in danger&lt;br&gt;to clear the due amount" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="305" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="m2iV8GpVmI2Ca6JwWwAd-16" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-17" value="&lt;span style=&quot;&quot;&gt;Display in danger&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;to clear the due amount&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="305" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-18" value="Check not more&lt;br&gt;then 5 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-20" value="Check&amp;nbsp;&lt;br&gt;today&#39;s date&lt;br&gt;is less then due_date&lt;br&gt;i.e 5 days&lt;br&gt;more to pay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="390" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-21" value="&lt;span style=&quot;&quot;&gt;Display in warning&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;to clear the due amount&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="480" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="m2iV8GpVmI2Ca6JwWwAd-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="400" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
